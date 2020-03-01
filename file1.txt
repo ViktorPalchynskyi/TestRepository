@@ -1,2 +1,6 @@
 Hello world! It is greate to be back! 
+<<<<<<< HEAD
 Line from user1
+=======
+Line from user2
+>>>>>>> c8c31c08569fd550bf5d171feb35faa6a516d684
